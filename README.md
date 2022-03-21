@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepthi R Shastry
-- 👀 I’m interested in coding for remote sensing applications and GIS.
+- 👀 I’m interested in coding for remote sensing applications in environment and conservation.
 - 🌱 I’m currently learning R for modelling and data processing
 - 📫 How to reach me - on twitter @_Deepthi_R
 
